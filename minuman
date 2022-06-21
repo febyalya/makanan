@@ -1,5 +1,7 @@
-{"success":true,"Minuman":[{"MinumanID":"1","MinumanName":"Pla Vanila","UnitPrice":"20.000","url":"https://drive.google.com/uc?export=view&id=1hugWDePxVxwwAGl6w3dzmySMZSFeEtsc"},
+{"success":true,"Makanan":[{"MakananID":"1","MakananName":"Aglio Olio","UnitPrice":"23.000","url":"https://drive.google.com/uc?export=view&id=1GE-iTMnF95IVZfcV5rOe_L69YHav643P"},
     
-    {"MinumanID":"4","MinumantName":"Strawberry Cake","UnitPrice":"22.500","url":"https://drive.google.com/uc?export=view&id=1B3p22cpFYM8jSuIJeU8WNnGXl2g-X9P3"},
+ {"MakanantID":"2","MakananName":"Egg Roll With Soup","UnitPrice":"22.000","url":"https://drive.google.com/uc?export=view&id=1zQ3AKQBm9LCtPT3l3LKP3huoH97xdFMn"},
+
+ {"MakanantID":"3","MakananName":"Spice Pasta","UnitPrice":"21.000","url":"https://drive.google.com/uc?export=view&id=14nVF46kxT5bFdxwEoG-LuB4psFOBe7zQ"}]}
     
-    {"MinumanID":"5","MinumantName":"{Prappe nice}","UnitPrice":"21.500","url":"https://drive.google.com/uc?export=view&id=19gnF424J4KtvOA3h1l8pMUePXp2r85YXQ"}]}
+   
